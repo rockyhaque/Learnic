@@ -1,0 +1,75 @@
+[
+    {
+      "title": "Mastering UI Design: From Basics to Advanced",
+      "tutor": {
+        "name": "Star Techies",
+        "image": "https://i.ibb.co/0jb93bB/petr-sevcovic-au-Cjz0gucr0-unsplash.jpg",
+        "email": "startechies10@gmail.com"
+      },
+      "description": "This comprehensive course on UI Design covers everything from the fundamentals to advanced design principles. Whether you are a beginner or have some experience, this course will help you master the art of crafting visually stunning and user-friendly interfaces. You will learn the core principles of design, including color theory, typography, and layout. We will explore the best practices in creating intuitive user interfaces that not only look great but also provide a seamless user experience. The course also covers advanced topics such as responsive design, accessibility, and design systems. By the end of this course, you will be equipped with the skills to create professional-grade designs that meet industry standards. With hands-on projects and expert guidance, you will be ready to take your UI design skills to the next level.",
+      "category": "Design",
+      "registration_start_date": "2024-09-01",
+      "registration_end_date": "2024-09-15",
+      "class_start_date": "2024-09-20",
+      "class_end_date": "2024-12-20",
+      "duration": "3 months",
+      "registration_fee": 100,
+      "status": "pending",
+      "session_img": "https://i.ibb.co/Tm3r5KD/UI-Design.jpg"
+    },
+    {
+      "title": "Full Stack Web Development Bootcamp",
+      "tutor": {
+        "name": "Rocky Haque Epic",
+        "image": "https://i.ibb.co/FVr35Vj/karsten-winegeart-k-Wm6b-XPJl4s-unsplash.jpg",
+        "email": "ineedocean8@gmail.com"
+      },
+      "description": "Join our Full Stack Web Development Bootcamp and become a proficient web developer in just three months! This intensive course is designed for both beginners and those with some coding experience. We cover all the essential web technologies, including HTML, CSS, and JavaScript, and delve deep into advanced topics such as React, Node.js, and database management with MongoDB. You will learn how to build dynamic, responsive, and interactive websites from scratch. The course also covers server-side programming, RESTful API development, and deployment strategies. By the end of the bootcamp, you will have built several real-world projects, providing you with a robust portfolio to showcase to potential employers. With dedicated support from experienced instructors, this bootcamp will help you become job-ready and confident in your web development skills.",
+      "category": "Programming",
+      "registration_start_date": "2024-10-01",
+      "registration_end_date": "2024-10-15",
+      "class_start_date": "2024-10-20",
+      "class_end_date": "2025-01-20",
+      "duration": "3 months",
+      "registration_fee": 120,
+      "status": "pending",
+      "session_img": "https://i.ibb.co/f0X0kFY/Web-Development.jpg"
+    },
+    {
+      "title": "Exploring the World of English Literature",
+      "tutor": {
+        "name": "Star Techies Demmy",
+        "image": "https://i.ibb.co/4fb24LJ/zoran-borojevic-f5xi-Gm-Fw-XIU-unsplash.jpg",
+        "email": "startechies10@gmail.com"
+      },
+      "description": "Dive deep into the rich and diverse world of English literature in this comprehensive course. Whether you are a literature enthusiast or just starting, this course will take you through the various genres, eras, and styles that define English literature. We will explore the works of iconic authors, from Shakespeare and Austen to modern-day writers. The course covers poetry, drama, fiction, and non-fiction, offering a broad perspective on the evolution of English literature over the centuries. We will discuss literary themes, stylistic devices, and the socio-political contexts in which these works were written. By the end of the course, you will have a deeper appreciation and understanding of the literary masterpieces that have shaped our world. The course also includes assignments, group discussions, and critical analysis to enhance your learning experience.",
+      "category": "Literature",
+      "registration_start_date": "2024-11-01",
+      "registration_end_date": "2024-11-15",
+      "class_start_date": "2024-11-20",
+      "class_end_date": "2025-02-20",
+      "duration": "3 months",
+      "registration_fee": 0,
+      "status": "pending",
+      "session_img": "https://i.ibb.co/rFFnztt/English-Literature.jpg"
+    },
+    {
+      "title": "Introduction to Statistics: Data and Analysis",
+      "tutor": {
+        "name": "Star Techies Lopoi",
+        "image": "https://i.ibb.co/Mh3KVfF/clay-elliot-Hf-MCgq-OLTy-M-unsplash.jpg",
+        "email": "startechies10@gmail.com"
+      },
+      "description": "This Introduction to Statistics course is designed to provide a solid foundation in statistical concepts and data analysis techniques. You will learn the basics of data collection, organization, and presentation. The course covers various statistical methods, including descriptive statistics, inferential statistics, probability, and hypothesis testing. You will also learn how to use statistical software tools to analyze data and interpret results. This course is ideal for students, professionals, and anyone interested in understanding the power of statistics in making informed decisions. By the end of the course, you will be able to conduct your own statistical analyses and draw meaningful conclusions from data. The course includes practical exercises and case studies to reinforce learning and ensure you gain hands-on experience with statistical analysis.",
+      "category": "Mathematics",
+      "registration_start_date": "2024-12-01",
+      "registration_end_date": "2024-12-15",
+      "class_start_date": "2024-12-20",
+      "class_end_date": "2025-03-20",
+      "duration": "3 months",
+      "registration_fee": 0,
+      "status": "pending",
+      "session_img": "https://i.ibb.co/F5VvH5q/Statistics.jpg"
+    }
+  ]
+  
